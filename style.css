@@ -107,6 +107,7 @@ body {
 @media (max-width: 375px) {
     body {
         font-size: 14px;
+        background-image: url('images/pattern-background-mobile.svg');
     }
 
     .main-img img {
